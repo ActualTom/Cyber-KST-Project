@@ -17,7 +17,7 @@ This will help students to develop skills and gain knowledge to be able to move 
 - Multiple Skill statements may be needed to complete a Task.
 - A single Skill statement may be used to complete more than one Task.
 
-**Task: An activity that is directed toward the achievement of organizational objectives. Must be: **
+**Task: An activity that is directed toward the achievement of organizational objectives. Must be:**
 - Easy to read and understand
 - Begin with the activity being executed.
 
